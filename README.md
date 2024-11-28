@@ -54,7 +54,8 @@ thermal_image = cv2.imread('path_to_thermal_image.jpg')
 
 ## Contributing
 
-Contributions are welcome. Follow these steps to contribute:
+Contributions are welcome. Follogit add README.md
+w these steps to contribute:
 
 1. Fork the repository.
 2. Create a new branch for your feature or fix (`git checkout -b feature/my-feature`).
